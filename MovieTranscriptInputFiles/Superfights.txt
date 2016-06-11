@@ -1,0 +1,260 @@
+<html>
+<head>
+<title>Superfights Script at IMSDb.</title>
+<meta name="description" content="Superfights script at the Internet Movie Script Database.">
+<meta name="keywords" content="Superfights script, Superfights movie script, Superfights film script">
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Language" content="EN">
+
+<meta name=objecttype CONTENT=Document>
+<meta name=ROBOTS CONTENT="INDEX, FOLLOW">
+<meta name=Subject CONTENT="Movie scripts, Film scripts">
+<meta name=rating CONTENT=General>
+<meta name=distribution content=Global>
+<meta name=revisit-after CONTENT="2 days">
+
+<link href="/style.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" src="/a/a_imsdb_p_cas.js"></script>
+<script type="text/javascript" src="/analytics_imsdb.js"></script>
+</head>
+
+<body topmargin="0" bottommargin="0">
+
+<table width="99%" border="0" cellspacing="0" cellpadding="0" class="body">
+  <tr> 
+    <td valign="bottom" bgcolor="#FF0000"><a href="http://www.imsdb.com" title="The Internet Movie Script Database"><img src="/images/logo_top.gif" border="0"></a></td>
+    <td bgcolor="#FF0000">
+	<center>
+	    <font color="#FFFFFF"><h1>The Internet Movie Script Database (IMSDb)</h1></font>
+</center>
+  <tr> 
+    <td background="/images/reel.gif" height="13" colspan="2"><a href="http://www.imsdb.com" title="The Internet Movie Script Database"><img src="/images/logo_middle.gif" border="0"></a></td>
+  <tr> 
+    <td width="170" valign="top" class="smalltxt"> <a href="http://www.imsdb.com" title="The Internet Movie Script Database"><img src="/images/logo_bottom.gif" width="170" border="0"></a> 
+      <br>
+	<center><span class="smalltxt">The web's largest <br>movie script resource!</span></center>
+	</td>
+    <td>
+<script language="JavaScript" src="/a/a_imsdb_lea_tf.js"></script></div></td>
+</table>
+<br>
+<table width="99%" border="0" cellspacing="0" cellpadding="0" class="body">
+  <tr> 
+    <td width="180" valign="top">
+
+<div align="center">
+<script type="text/javascript" src="/a/a_imsdb_halfvert_goo.js"></script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+</div>
+
+<table class=body border=0 cellspacing=0 cellpadding=2 width="100%">
+<tr> 
+          <td colspan="2" class=heading>Search IMSDb<tr>
+<form method="post" action="/search.php">
+            <td width="180"> <div align="center">
+                <input type="text" name="search_query" maxlength="255" size="15">
+                <input type="submit" value="Go!" name="submit">
+              </div></td>
+</form>
+</table>
+<br>
+<table width="100%" border=0 cellpadding=2 cellspacing=0 class=body>
+<tr>
+<td colspan=9 class=heading>Alphabetical
+<tr align="center">
+        <td><a href="/alphabetical/0">#</a> 
+        <td><a href="/alphabetical/A">A</a>
+        <td><a href="/alphabetical/B">B</a>
+        <td><a href="/alphabetical/C">C</a>
+        <td><a href="/alphabetical/D">D</a>
+        <td><a href="/alphabetical/E">E</a>
+        <td><a href="/alphabetical/F">F</a>
+        <td><a href="/alphabetical/G">G</a>
+        <td><a href="/alphabetical/H">H</a><tr align="center"> 
+        <td><a href="/alphabetical/I">I</a>
+        <td><a href="/alphabetical/J">J</a>
+        <td><a href="/alphabetical/K">K</a>
+        <td><a href="/alphabetical/L">L</a>
+        <td><a href="/alphabetical/M">M</a>
+        <td><a href="/alphabetical/N">N</a>
+        <td><a href="/alphabetical/O">O</a>
+        <td><a href="/alphabetical/P">P</a>
+        <td><a href="/alphabetical/Q">Q</a><tr align="center"> 
+        <td><a href="/alphabetical/R">R</a>
+        <td><a href="/alphabetical/S">S</a>
+        <td><a href="/alphabetical/T">T</a>
+        <td><a href="/alphabetical/U">U</a>
+        <td><a href="/alphabetical/V">V</a>
+        <td><a href="/alphabetical/W">W</a>
+        <td><a href="/alphabetical/X">X</a>
+        <td><a href="/alphabetical/Y">Y</a>
+        <td><a href="/alphabetical/Z">Z</a>
+</table>
+<br>
+<table width="100%" border=0 cellpadding=2 cellspacing=0 class=body>
+<tr>
+<td colspan=3 class=heading>Genre
+<tr> 
+	<td><a href="/genre/Action">Action</a>
+	<td><a href="/genre/Adventure">Adventure</a>
+	<td><a href="/genre/Animation">Animation</a><tr>
+	<td><a href="/genre/Comedy">Comedy</a>
+	<td><a href="/genre/Crime">Crime</a>
+	<td><a href="/genre/Drama">Drama</a><tr>
+	<td><a href="/genre/Family">Family</a>
+	<td><a href="/genre/Fantasy">Fantasy</a>
+	<td><a href="/genre/Film-Noir">Film-Noir</a><tr>
+	<td><a href="/genre/Horror">Horror</a>
+	<td><a href="/genre/Musical">Musical</a>
+	<td><a href="/genre/Mystery">Mystery</a><tr>
+	<td><a href="/genre/Romance">Romance</a>
+	<td><a href="/genre/Sci-Fi">Sci-Fi</a>
+	<td><a href="/genre/Short">Short</a><tr>
+	<td><a href="/genre/Thriller">Thriller</a>
+	<td><a href="/genre/War">War</a>
+	<td><a href="/genre/Western">Western</a>
+</table>
+<br>
+<table width="100%" border=0 cellpadding=2 cellspacing=0 class=body>
+<tr>
+<td class=heading>Sponsor
+<tr> 
+	<td align="center">
+<center>
+ <script type="text/javascript" language="javascript" src="/a/a_imsdb_sky_tf.js"></script>
+ <noscript><a href="http://a.tribalfusion.com/i.click?site=IMSDb&adSpace=ROS&size=160x600&requestID=1289741521" target=_blank><img src="http://a.tribalfusion.com/i.ad?site=IMSDb&adSpace=ROS&size=160x600&requestID=1289741521" width=160 height=600 border=0 alt="Click Here"></a></noscript>
+</center>
+</table>
+
+<br>
+<table width="100%" border=0 cellpadding=2 cellspacing=0 class=body>
+<tr>
+<td class=heading>TV Transcripts
+<tr> 
+	<td><a href="/TV/Futurama.html">Futurama</a><tr>
+	<td><a href="/TV/Seinfeld.html">Seinfeld</a><tr>
+	<td><a href="/TV/South Park.html">South Park</a><tr>
+	<td><a href="/TV/Stargate SG1.html">Stargate SG-1</a><tr>
+	<td><a href="/TV/Lost.html">Lost</a><tr>
+	<td><a href="/TV/The 4400.html">The 4400</a>
+</table>
+
+<br>
+<table width="100%" border=0 cellpadding=2 cellspacing=0 class=body>
+<tr>
+<td class=heading>Movie Software
+<tr>
+	<td><a href="/software/rip-from-dvd">Rip from DVD</a>
+<tr>
+	<td><a href="/software/rip-blu-ray">Rip Blu-Ray</a>
+</table>
+
+<br>
+<table width="100%" border=0 cellpadding=2 cellspacing=0 class=body>
+<tr>
+<td colspan=3 class=heading>Latest Comments
+<tr>
+<td><a href="/Movie Scripts/Watchmen Script.html">Watchmen<td>10/10<tr>
+<td><a href="/Movie Scripts/Rise of the Planet of the Apes Script.html">Rise of the Planet of the Apes<td>8/10<tr>
+<td><a href="/Movie Scripts/Silver Linings Playbook Script.html">Silver Linings Playbook<td>10/10<tr>
+<td><a href="/Movie Scripts/Gladiator Script.html">Gladiator<td>10/10<tr>
+<td><a href="/Movie Scripts/It's a Wonderful Life Script.html">It's a Wonderful Life<td>10/10<tr>
+</table>
+<br>
+
+<table width="100%" border=0 cellpadding=2 cellspacing=0 class=body>
+<tr>
+<td class=heading>Movie Chat
+<tr> 
+<td align="center">
+<SCRIPT LANGUAGE="Javascript" TYPE="text/javascript" SRC="http://www.yellbox.com/ybscript_enhanced.js"></SCRIPT>
+<iframe class="yellbox" frameborder=0 name="ybframe" height=170 marginwidth=0 marginheight=0 src="http://www.yellbox.com/yellbox.php?name=imsdb">
+</iframe>
+<form class="yellbox" action="http://www.yellbox.com/addmessage.php" method="post" target="ybframe" name="yellform"> 
+ <input type="hidden" name="sub_username" value="imsdb">
+ <input class="yellbox" name="sub_name" value="Name" size=21 maxlength=10 onFocus="if(this.value == 'Name')this.value = ''; return;"><br>
+ <textarea class="yellbox" cols=15 rows=4 name="sub_message" wrap onFocus="if(this.value == 'Message')this.value = ''; return;">Message</textarea>
+ <table><tr><td>
+ <button onClick="javascript:makeNewWindow(); return false;"><img src="http://www.yellbox.com/images/smiley.gif" width=16 height=16></button>
+ <td><button type="submit" value="Post" onClick="return clearMessageBox();">Yell !</button></table>
+</form> 
+</table>
+
+
+<div align="center"><br><br>
+      <a href="http://www.imsdb.com/all%20scripts">ALL SCRIPTS</a><br><br>
+</div>
+
+<td width="28"></td>
+<td valign="top">
+<br><table width=100% border=0 cellpadding=5 class=scrtext><tr><td class=scrtext><pre> <html>
+<head>
+<title>Superfights Script at IMSDb.</title>
+<meta name="description" content="Superfights script">
+<meta name="keywords" content="Superfights script, Superfights movie script, Superfights film script">
+<p align="center">
+<iframe width=728 height=90 scrolling=no src="http://www.imsdb.com/adbanner.html" frameborder=0></iframe>
+<br><br>
+This script was brought to you by :<br>
+  <a href="http://www.imsdb.com">The Internet Movie Script Database</a><br>
+  www.IMSDb.com
+</p><table width=99% cellpadding=0 cellspacing=0>
+<tr>
+<td width=120 valign="top">
+
+<iframe marginwidth="0" marginheight="0" src="http://www.filemania.com/ad_sky.html" width="120" height="600" border="0" frameborder="0" style="border:none;" scrolling="no"></iframe>
+
+<td><td width=120 valign="top">
+
+<iframe marginwidth="0" marginheight="0" src="http://rcm.amazon.com/e/cm?t=everlongsoftw-20&o=1&p=8&l=st1&mode=dvd&search=Superfights&=1&fc1=&lc1=&lt1=_blank&bg1=FFFFCC&f=ifr" width="120" height="240" border="0" frameborder="0" style="border:none;" scrolling="no"></iframe>
+<br><br><br>
+<br><br>
+<iframe marginwidth="0" marginheight="0" src="http://www.filemania.com/ad_sky.html" width="120" height="600" border="0" frameborder="0" style="border:none;" scrolling="no"></iframe>
+
+</table><br><center><iframe marginwidth=0 marginheight=0 src="http://rcm.amazon.com/e/cm?t=everlongsoftw-20&o=1&p=9&l=st1&mode=dvd&search=Superfights&=1&fc1=&lc1=&lt1=&bg1=&f=ifr" width=180 height=150 border=0 frameborder=0 style="border:none;" scrolling=no></iframe></center></body></html></pre></table><br>
+<table width="85%" border="0" align="center" cellpadding="5" cellspacing="0" class="body" style="BORDER-TOP: #000000 1px solid; BORDER-RIGHT: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid;">
+  <tr> 
+	<td align=center>
+	<td><h1>Superfights</h1><br><br>
+	    <b>Writers</b> : &nbsp;&nbsp;<a href="/writer.php?w=Keith Strandburg" title="Scripts by Keith Strandburg">Keith Strandburg</a><br>
+    	<b>Genres</b> : &nbsp;&nbsp;<a href="/genre/Action" title="Action Scripts">Action</a>&nbsp;&nbsp;<a href="/genre/Thriller" title="Thriller Scripts">Thriller</a><br><br><br>
+		
+		<a href="http://www.imsdb.com/Movie Scripts/Superfights Script.html#comments" title="Superfights comments">User Comments</a>
+	</td>
+</table>
+<br><br>
+<div align="center">
+<a href="http://www.imsdb.com" title="Internet Movie Script Database"><img src="http://www.imsdb.com/images/lilbutton.gif" style="border: 1px solid black;"  alt="Internet Movie Script Database" border=1><br>
+Back to IMSDb</a>
+</div><br>
+<br><br>
+  </tr>
+</table>
+<br><br>
+</table>
+
+<script type="text/javascript" src="/analytics2_imsdb.js"></script>
+
+<table width="99%" border="0" cellspacing="0" cellpadding="0" class="body">
+  <tr> 
+  <td background="/images/reel.gif" height="13" colspan="2">
+</table>
+
+<div align="center"> 
+ <a href="http://www.imsdb.com" title="Internet Movie Script Database (IMSDb)">Index</a> 
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+ <a href="/submit" title="Submit scripts">Submit</a> 
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+ <a href="/links" title="Other sites">Links</a> 
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+ <a href="/link to us" title="Link to IMSDb">Link to us</a> 
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+ <a href="/feeds" title="IMSDb RSS Feeds">RSS Feeds</a> 
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+ <a href="/disclaimer">Disclaimer</a> 
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+ <a href="/privacy">Privacy policy</a> 
+</div>
+<br />
+</body>
+</html>
